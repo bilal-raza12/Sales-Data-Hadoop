@@ -1,0 +1,7 @@
+Classic Cars	6233.0
+Motorcycles	1963.0
+Planes	2210.0
+Ships	1591.0
+Trains	550.0
+Trucks and Buses	1873.0
+Vintage Cars	3834.0
